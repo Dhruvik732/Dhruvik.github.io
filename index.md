@@ -1,10 +1,10 @@
 
 
 ## My Self
-my name is Dhruvik.
+my name is Nagotha Dhruvik Hadabhai.
 B.Tech computer Science student from MNIT(jaipur).
 
-## My prfile image
+## My profile image
  ![My profile image](https://img.freepik.com/free-vector/ai-with-predictive-maintenance-illustration_614304-2.jpg?t=st=1732009236~exp=1732012836~hmac=921b9113b85be02326efd32d7ce418031db8e3c6cc3ca931300e988b17fdcda9&w=740)
  
 ## Education
