@@ -5,7 +5,7 @@ my name is Dhruvik.
 B.Tech computer Science student from MNIT(jaipur).
 
 ## My prfile image
- ![My profile image](https://www.google.com/url?sa=i&url=https%3A%2F%2Feasy-peasy.ai%2Fai-image-generator%2Fimages%2Fcalm-peaceful-student-studying-books&psig=AOvVaw0KIRpyklitIRyj_oKb0Eg1&ust=1732094070103000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCM-bKH6IkDFQAAAAAdAAAAABAE](https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/4835c2fa-1766-4829-8a22-be1dd1f69cc3/f7c78b88-c1a3-4593-9d7c-aa990f2de161.png))
+ ![My profile image](https://img.freepik.com/free-vector/ai-with-predictive-maintenance-illustration_614304-2.jpg?t=st=1732009236~exp=1732012836~hmac=921b9113b85be02326efd32d7ce418031db8e3c6cc3ca931300e988b17fdcda9&w=740)
  
 ## Education
 |Degree|Institution|Year|
